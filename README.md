@@ -1,6 +1,6 @@
 ### Hi there 👋, Rıdvan Akyıl
 #### Design And Development
-![Design And Development](https://media-exp1.licdn.com/dms/image/C4D22AQGvB9gxkFNvXQ/feedshare-shrink_1280/0/1654288103052?e=1657152000&v=beta&t=LJ1D9r6qFiiKh0sQZbQMcFS1g0ECltfvu-Omi7qf6HM)
+![Design And Development](https://www.linkedin.com/in/r%C4%B1dvan-aky%C4%B1l-712282228/overlay/background-image/)
 
 I'm Rıdvan from Turkey, and I do content on Design and Development. I really enjoy learning languages and frameworks like Angular and Javascript . I also enjoy  ui, ux, and design in general.
 
